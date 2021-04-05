@@ -1,6 +1,6 @@
-# first_app
+# Flutter_Course
 
-A new Flutter project.
+A new Flutter project from online course provided by Maximilian.
 
 ## Getting Started
 
